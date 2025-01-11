@@ -15,6 +15,7 @@ unittests.xml
 *.db
 db/*
 !db/.keep
+*.csv
 
 # SonarQube Reports
 .scannerwork/
